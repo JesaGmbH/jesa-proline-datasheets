@@ -1,12 +1,8 @@
 # JESA ProLine ABS-GF10
 
 ## Dokumente
-- Technical Data Sheet (TDS): siehe TDS.pdf
+- Technical Data Sheet (TDS): siehe ProLine ABS-GF10 Filament.pdf
 
-## Druckhinweise (Kurzfassung)
-- Empfohlene Düsentemperatur: siehe TDS
-- Geschlossene Kammer empfohlen
-- Bauteilkühlung: gering
 
 ## Slicer-Profile
 Aktuell noch keine offiziellen Profile verfügbar.  
