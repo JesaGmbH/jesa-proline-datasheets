@@ -1,7 +1,7 @@
 # JESA ProLine ASA-CF
 
 ## Dokumente
-- Technical Data Sheet (TDS): siehe TDS.pdf
+- Technical Data Sheet (TDS): siehe ProLine ASA-CF Filament.pdf
 
 ## Druckhinweise (Kurzfassung)
 - Empfohlene Düsentemperatur: siehe TDS
