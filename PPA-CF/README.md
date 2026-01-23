@@ -2,10 +2,10 @@
   <img src="../JESA transparent 750x750.png" alt="JESA" width="160">
 </p>
 
-# JESA ProLine PET-CF
+# JESA ProLine PPA-CF
 
 ## Dokumente
-- Technical Data Sheet (TDS): siehe ProLine PPA-CF Filament.pdf
+- Technical Data Sheet (TDS): siehe "ProLine PPA-CF Filament.pdf"
 
 
 ## Slicer‑Profile
