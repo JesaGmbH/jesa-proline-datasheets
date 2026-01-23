@@ -5,7 +5,7 @@
 # JESA ProLine PET-CF
 
 ## Dokumente
-- Technical Data Sheet (TDS): siehe ProLine PET-CF Filament.pdf
+- Technical Data Sheet (TDS): siehe "ProLine PET-CF Filament.pdf"
 
 
 ## Slicer‑Profile
