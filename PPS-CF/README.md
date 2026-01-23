@@ -1,13 +1,13 @@
+<p align="center">
+  <img src="../JESA transparent 750x750.png" alt="JESA" width="160">
+</p>
+
 # JESA ProLine PPS-CF
 
 ## Dokumente
-- Technical Data Sheet (TDS): siehe TDS.pdf
+- Technical Data Sheet (TDS): siehe "ProLine PPS-CF Filament.pdf"
 
-## Druckhinweise (Kurzfassung)
-- Empfohlene Düsentemperatur und weitere Parameter: siehe TDS
-- Geschlossene oder beheizte Druckkammer empfohlen
-- Bauteilkühlüng: gering bis mittel
 
-## Slicer-Profile
-Aktuell sind noch keine offiziellen Slicer-Profile für PPS-CF vorhanden.
-Die Profile werden zukünftig in diesem Repository ergänzt.
+## Slicer‑Profile
+Aktuell noch keine offiziellen Profile verfügbar.  
+Diese werden zukünftig hier ergänzt.
