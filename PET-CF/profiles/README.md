@@ -44,12 +44,12 @@ Die Profile sind ein **erprobter Startpunkt** — kein Garant für perfekte Erge
 
 Schreib uns kurz, welchen Drucker und welche Düse du einsetzt — wir priorisieren danach, welche Profile als nächstes kommen.
 
-**Kontakt:** https://shop.jesa-gmbh.de/pages/contact
+**Kontakt:** [shop.jesa-gmbh.de/pages/contact](https://shop.jesa-gmbh.de/pages/contact)
 
 ---
 
 ## Mehr zu ProLine PET-CF
 
-- 📄 **Datenblatt:** https://github.com/JesaGmbH/jesa-proline-datasheets/blob/main/PET-CF/ProLine%20PET-CF%20Filament.pdf.pdf
-- 🛒 **Material kaufen:** https://shop.jesa-gmbh.de/products/proline-pet-cf-filament?variant=53457895555336
-- 📂 **Profile für andere Materialien:** https://github.com/JesaGmbH/jesa-proline-datasheets/tree/main
+- 📄 [**Datenblatt (PDF)**](https://github.com/JesaGmbH/jesa-proline-datasheets/blob/main/PET-CF/ProLine%20PET-CF%20Filament.pdf.pdf)
+- 🛒 [**Material kaufen**](https://shop.jesa-gmbh.de/products/proline-pet-cf-filament?variant=53457895555336)
+- 📂 [**Profile für andere Materialien**](https://github.com/JesaGmbH/jesa-proline-datasheets/tree/main)
