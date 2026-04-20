@@ -44,5 +44,5 @@ PET-CF zieht Feuchtigkeit aus der Luft. Feuchtes Filament = Blasen, schwache Sch
 
 ## Material kaufen & Kontakt
 
-- 🛒 [**ProLine PET-CF im Jesa Shop**](LINK-ZUR-PRODUKTSEITE)
+- 🛒 [**ProLine PET-CF im Jesa Shop**](https://shop.jesa-gmbh.de/products/proline-pet-cf-filament?variant=53457895555336)
 - ✉️ [**Kontakt**](https://shop.jesa-gmbh.de/pages/contact) — Fragen zum Material, zur Verarbeitung oder Profil-Wünsche
