@@ -40,7 +40,7 @@ PET-CF zieht Feuchtigkeit aus der Luft. Feuchtes Filament = Blasen, schwache Sch
 
 - **Vortrocknen:** 90–100 °C, mindestens 12 h
 - **Düse:** gehärteter Stahl (Carbonfaser verschleißt Messing)
-- **Tempern (optional):** 120 °C, 8 h nach dem Druck erhöht Festigkeit spürbar
+- **Tempern (optional):** 80-100 °C, 8 h nach dem Druck erhöht Festigkeit spürbar
 
 ## Material kaufen & Kontakt
 
