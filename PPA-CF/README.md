@@ -36,7 +36,7 @@ Profil für deinen Drucker benötigt? [**Schreib uns**](https://shop.jesa-gmbh.d
 PPA-CF ist ein anspruchsvolles High-Performance-Material. Trocknung und Druckbedingungen sind hier entscheidend — ein nicht perfekt vorbereitetes Filament ruiniert den Druck sofort.
 
 - **Vortrocknen:** **120 °C, mindestens 8 h** (Heißluftofen) — Pflicht, kein optionaler Schritt
-- **Nach dem Druck (Tempern):** 80–100 °C, 1–3 h für maximale Festigkeit
+- **Nach dem Druck (Tempern):** 120–140 °C, 6–12 h für maximale Festigkeit
 - **Drucktemperatur:** 290–310 °C
 - **Bett:** 100–120 °C
 - **Druckraum:** bis ~60 °C empfohlen — für volle Maßhaltigkeit idealerweise Gehäuse
