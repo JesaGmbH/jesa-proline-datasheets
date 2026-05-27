@@ -49,7 +49,7 @@ PPS-CF ist das anspruchsvollste Material in der ProLine-Reihe. Es braucht einen 
 - **Düse und Zahnrad:** gehärteter Stahl
 - **Kühlung:** Bauteillüfter 0–30 %
 - **Vortrocknen:** **120 °C, mindestens 8 h** — Pflicht
-- **Nach dem Druck (Tempern):** 80–100 °C, 1–3 h für maximale Festigkeit
+- **Nach dem Druck (Tempern):** 160–180 °C, 6–12 h für maximale Festigkeit
 
 Auch ohne beheizte Kammer verarbeitbar, wenn der Drucker die Düsentemperatur stabil hält. Vollständige Druckparameter stehen im Datenblatt.
 
